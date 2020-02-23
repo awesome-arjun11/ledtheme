@@ -1,0 +1,3 @@
+Pillow
+adb_shell
+pycryptodome
